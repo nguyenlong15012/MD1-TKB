@@ -1,0 +1,39 @@
+
+.tb1{
+    width: 600px;
+}
+
+.tb1 .t1{
+    background: yellow;
+
+}
+h1{
+    text-align: center;
+    width: 600px;
+}
+.tb1 .t2{
+    background: coral;
+}
+
+.a1{
+    float: left;
+    width: 600px;
+}
+
+.a2{
+    float: left;
+    width: 1500px;
+}
+
+h3{
+    color: cornflowerblue;
+}
+
+.tb2{
+    width: 600px;
+}
+
+.tb2 .b1{
+    color: cornflowerblue;
+    float: right;
+}
